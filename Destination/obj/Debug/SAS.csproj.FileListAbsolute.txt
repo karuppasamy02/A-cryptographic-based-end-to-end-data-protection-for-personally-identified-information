@@ -1,0 +1,103 @@
+G:\VIGNESH\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\SAS\obj\Debug\FTServerCode.exe
+G:\VIGNESH\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\SAS\obj\Debug\FTServerCode.pdb
+G:\VIGNESH\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\SAS\bin\Debug\FTServerCode.exe
+G:\VIGNESH\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\SAS\bin\Debug\FTServerCode.pdb
+G:\VIGNESH\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\SAS\obj\Debug\ResolveAssemblyReference.cache
+G:\VIGNESH\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\SAS\obj\Debug\FTServerCode1.Form1.resources
+G:\VIGNESH\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\SAS\obj\Debug\FTServerCode.Properties.Resources.resources
+G:\VIGNESH\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\SAS\obj\Debug\GenerateResource-ResGen.read.1.tlog
+G:\VIGNESH\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\SAS\obj\Debug\GenerateResource-ResGen.read.4.tlog
+G:\VIGNESH\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\SAS\obj\Debug\GenerateResource-ResGen.write.1.tlog
+G:\VIGNESH\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\SAS\obj\Debug\FTServerCode.aggregation1.resources
+G:\VIGNESH\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\SAS\obj\Debug\FTServerCode.aggregation2.resources
+G:\VIGNESH\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\SAS\obj\Debug\FTServerCode.aggregation3.resources
+G:\VIGNESH\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\SAS\bin\Debug\FTServerCode.exe.config
+G:\VIGNESH\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\SAS\obj\Debug\GenerateResource.read.1.tlog
+G:\VIGNESH\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\SAS\obj\Debug\GenerateResource.write.1.tlog
+C:\vignesh\MICRO AGGREGATION-24\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\SAS\bin\Debug\FTServerCode.exe.config
+C:\vignesh\MICRO AGGREGATION-24\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\SAS\obj\Debug\FTServerCode.exe
+C:\vignesh\MICRO AGGREGATION-24\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\SAS\obj\Debug\FTServerCode.pdb
+F:\MICRO AGGREGATION-24\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\SAS\bin\Debug\FTServerCode.exe.config
+F:\MICRO AGGREGATION-24\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\SAS\obj\Debug\FTServerCode.exe
+F:\MICRO AGGREGATION-24\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\SAS\obj\Debug\FTServerCode.pdb
+F:\MICRO AGGREGATION-24\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\SAS\bin\Debug\FTServerCode.exe
+F:\MICRO AGGREGATION-24\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\SAS\bin\Debug\FTServerCode.pdb
+F:\MICRO AGGREGATION-24\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\SAS\obj\Debug\ResolveAssemblyReference.cache
+F:\MICRO AGGREGATION-24\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\SAS\obj\Debug\FTServerCode.aggregation1.resources
+F:\MICRO AGGREGATION-24\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\SAS\obj\Debug\FTServerCode.aggregation2.resources
+F:\MICRO AGGREGATION-24\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\SAS\obj\Debug\FTServerCode.aggregation3.resources
+F:\MICRO AGGREGATION-24\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\SAS\obj\Debug\FTServerCode.doctorlogin.resources
+F:\MICRO AGGREGATION-24\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\SAS\obj\Debug\FTServerCode1.Form1.resources
+F:\MICRO AGGREGATION-24\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\SAS\obj\Debug\FTServerCode.m2a3.resources
+F:\MICRO AGGREGATION-24\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\SAS\obj\Debug\FTServerCode.Properties.Resources.resources
+F:\MICRO AGGREGATION-24\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\SAS\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\MICRO AGGREGATION-24\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\SAS\obj\Debug\GenerateResource-ResGen.read.4.tlog
+F:\MICRO AGGREGATION-24\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\SAS\obj\Debug\GenerateResource.read.1.tlog
+F:\MICRO AGGREGATION-24\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\SAS\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\MICRO AGGREGATION-24\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\SAS\obj\Debug\GenerateResource.write.1.tlog
+F:\MICRO AGGREGATION-24\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\SAS\obj\Debug\FTServerCode.m2a1.resources
+F:\MICRO AGGREGATION-24\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\SAS\obj\Debug\FTServerCode.m2a2.resources
+F:\MICRO AGGREGATION-CV\MICRO AGGREGATION\SAS\bin\Debug\FTServerCode.exe.config
+F:\MICRO AGGREGATION-CV\MICRO AGGREGATION\SAS\obj\Debug\FTServerCode.exe
+F:\MICRO AGGREGATION-CV\MICRO AGGREGATION\SAS\obj\Debug\FTServerCode.pdb
+F:\MICRO AGGREGATION-CV\MICRO AGGREGATION\SAS\bin\Debug\FTServerCode.exe
+F:\MICRO AGGREGATION-CV\MICRO AGGREGATION\SAS\bin\Debug\FTServerCode.pdb
+F:\MICRO AGGREGATION-CV\MICRO AGGREGATION\SAS\obj\Debug\ResolveAssemblyReference.cache
+F:\MICRO AGGREGATION-CV\MICRO AGGREGATION\SAS\obj\Debug\FTServerCode.doctorlogin.resources
+F:\MICRO AGGREGATION-CV\MICRO AGGREGATION\SAS\obj\Debug\FTServerCode1.Form1.resources
+F:\MICRO AGGREGATION-CV\MICRO AGGREGATION\SAS\obj\Debug\FTServerCode.m2a1.resources
+F:\MICRO AGGREGATION-CV\MICRO AGGREGATION\SAS\obj\Debug\FTServerCode.m2a2.resources
+F:\MICRO AGGREGATION-CV\MICRO AGGREGATION\SAS\obj\Debug\FTServerCode.m2a3.resources
+F:\MICRO AGGREGATION-CV\MICRO AGGREGATION\SAS\obj\Debug\FTServerCode.Properties.Resources.resources
+F:\MICRO AGGREGATION-CV\MICRO AGGREGATION\SAS\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\MICRO AGGREGATION-CV\MICRO AGGREGATION\SAS\obj\Debug\GenerateResource-ResGen.read.4.tlog
+F:\MICRO AGGREGATION-CV\MICRO AGGREGATION\SAS\obj\Debug\GenerateResource.read.1.tlog
+F:\MICRO AGGREGATION-CV\MICRO AGGREGATION\SAS\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\MICRO AGGREGATION-CV\MICRO AGGREGATION\SAS\obj\Debug\GenerateResource.write.1.tlog
+E:\OFFICE DETAILS\VIGNESH DETAILS\VIGNESH\http & others\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\SAS\bin\Debug\FTServerCode.exe.config
+E:\OFFICE DETAILS\VIGNESH DETAILS\VIGNESH\http & others\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\SAS\obj\Debug\FTServerCode.exe
+E:\OFFICE DETAILS\VIGNESH DETAILS\VIGNESH\http & others\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\SAS\obj\Debug\FTServerCode.pdb
+E:\OFFICE DETAILS\VIGNESH DETAILS\VIGNESH\http & others\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\SAS\bin\Debug\FTServerCode.exe
+E:\OFFICE DETAILS\VIGNESH DETAILS\VIGNESH\http & others\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\SAS\bin\Debug\FTServerCode.pdb
+E:\OFFICE DETAILS\VIGNESH DETAILS\VIGNESH\http & others\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\SAS\obj\Debug\ResolveAssemblyReference.cache
+E:\OFFICE DETAILS\VIGNESH DETAILS\VIGNESH\http & others\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\SAS\obj\Debug\FTServerCode.doctorlogin.resources
+E:\OFFICE DETAILS\VIGNESH DETAILS\VIGNESH\http & others\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\SAS\obj\Debug\FTServerCode1.Form1.resources
+E:\OFFICE DETAILS\VIGNESH DETAILS\VIGNESH\http & others\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\SAS\obj\Debug\FTServerCode.m2a1.resources
+E:\OFFICE DETAILS\VIGNESH DETAILS\VIGNESH\http & others\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\SAS\obj\Debug\FTServerCode.m2a2.resources
+E:\OFFICE DETAILS\VIGNESH DETAILS\VIGNESH\http & others\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\SAS\obj\Debug\FTServerCode.m2a3.resources
+E:\OFFICE DETAILS\VIGNESH DETAILS\VIGNESH\http & others\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\SAS\obj\Debug\FTServerCode.Properties.Resources.resources
+E:\OFFICE DETAILS\VIGNESH DETAILS\VIGNESH\http & others\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\SAS\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\OFFICE DETAILS\VIGNESH DETAILS\VIGNESH\http & others\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\SAS\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\OFFICE DETAILS\VIGNESH DETAILS\VIGNESH\http & others\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\SAS\obj\Debug\GenerateResource.read.1.tlog
+E:\OFFICE DETAILS\VIGNESH DETAILS\VIGNESH\http & others\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\SAS\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\OFFICE DETAILS\VIGNESH DETAILS\VIGNESH\http & others\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\SAS\obj\Debug\GenerateResource.write.1.tlog
+E:\COLLEGES\2016\COLLEGE\SONA COLLEGE\project\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\Destination\bin\Debug\FTServerCode.exe.config
+E:\COLLEGES\2016\COLLEGE\SONA COLLEGE\project\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\Destination\obj\Debug\FTServerCode.exe
+E:\COLLEGES\2016\COLLEGE\SONA COLLEGE\project\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\Destination\obj\Debug\FTServerCode.pdb
+E:\COLLEGES\2016\COLLEGE\SONA COLLEGE\project\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\Destination\bin\Debug\FTServerCode.exe
+E:\COLLEGES\2016\COLLEGE\SONA COLLEGE\project\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\Destination\bin\Debug\FTServerCode.pdb
+E:\COLLEGES\2016\COLLEGE\SONA COLLEGE\project\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\Destination\obj\Debug\ResolveAssemblyReference.cache
+E:\COLLEGES\2016\COLLEGE\SONA COLLEGE\project\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\Destination\obj\Debug\FTServerCode.doctorlogin.resources
+E:\COLLEGES\2016\COLLEGE\SONA COLLEGE\project\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\Destination\obj\Debug\FTServerCode1.Form1.resources
+E:\COLLEGES\2016\COLLEGE\SONA COLLEGE\project\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\Destination\obj\Debug\FTServerCode.m2a1.resources
+E:\COLLEGES\2016\COLLEGE\SONA COLLEGE\project\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\Destination\obj\Debug\FTServerCode.m2a2.resources
+E:\COLLEGES\2016\COLLEGE\SONA COLLEGE\project\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\Destination\obj\Debug\FTServerCode.m2a3.resources
+E:\COLLEGES\2016\COLLEGE\SONA COLLEGE\project\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\Destination\obj\Debug\FTServerCode.Properties.Resources.resources
+E:\COLLEGES\2016\COLLEGE\SONA COLLEGE\project\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\Destination\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\COLLEGES\2016\COLLEGE\SONA COLLEGE\project\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\Destination\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\COLLEGES\2016\COLLEGE\SONA COLLEGE\project\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\Destination\obj\Debug\GenerateResource.read.1.tlog
+E:\COLLEGES\2016\COLLEGE\SONA COLLEGE\project\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\Destination\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\COLLEGES\2016\COLLEGE\SONA COLLEGE\project\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\Destination\obj\Debug\GenerateResource.write.1.tlog
+E:\sona college\Destination\bin\Debug\FTServerCode.exe.config
+E:\sona college\Destination\obj\Debug\FTServerCode.exe
+E:\sona college\Destination\obj\Debug\FTServerCode.pdb
+E:\sona college\Destination\bin\Debug\FTServerCode.exe
+E:\sona college\Destination\bin\Debug\FTServerCode.pdb
+E:\sona college\Destination\obj\Debug\FTServerCode.doctorlogin.resources
+E:\sona college\Destination\obj\Debug\FTServerCode1.Form1.resources
+E:\sona college\Destination\obj\Debug\FTServerCode.m2a1.resources
+E:\sona college\Destination\obj\Debug\FTServerCode.m2a2.resources
+E:\sona college\Destination\obj\Debug\FTServerCode.m2a3.resources
+E:\sona college\Destination\obj\Debug\FTServerCode.Properties.Resources.resources
+E:\sona college\Destination\obj\Debug\SAS.csproj.GenerateResource.Cache
+E:\sona college\Destination\obj\Debug\SAS.csprojResolveAssemblyReference.cache

@@ -1,0 +1,161 @@
+C:\Documents and Settings\Administrator\Desktop\file transfer\FileTransfer\FileTransfer\FTClientCode\bin\Debug\FTClientCode.exe
+C:\Documents and Settings\Administrator\Desktop\file transfer\FileTransfer\FileTransfer\FTClientCode\bin\Debug\FTClientCode.pdb
+C:\Documents and Settings\Administrator\Desktop\file transfer\FileTransfer\FileTransfer\FTClientCode\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\file transfer\FileTransfer\FileTransfer\FTClientCode\obj\Debug\FTClientCode.Form1.resources
+C:\Documents and Settings\Administrator\Desktop\file transfer\FileTransfer\FileTransfer\FTClientCode\obj\Debug\FTClientCode.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\file transfer\FileTransfer\FileTransfer\FTClientCode\obj\Debug\FTClientCode.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\file transfer\FileTransfer\FileTransfer\FTClientCode\obj\Debug\FTClientCode.exe
+C:\Documents and Settings\Administrator\Desktop\file transfer\FileTransfer\FileTransfer\FTClientCode\obj\Debug\FTClientCode.pdb
+G:\VIGNESH\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\FTClientCode\obj\Debug\FTClientCode.exe
+G:\VIGNESH\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\FTClientCode\obj\Debug\FTClientCode.pdb
+G:\VIGNESH\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\FTClientCode\bin\Debug\FTClientCode.exe
+G:\VIGNESH\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\FTClientCode\bin\Debug\FTClientCode.pdb
+G:\VIGNESH\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\FTClientCode\obj\Debug\ResolveAssemblyReference.cache
+G:\VIGNESH\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\FTClientCode\obj\Debug\FTClientCode.Properties.Resources.resources
+G:\VIGNESH\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\FTClientCode\obj\Debug\GenerateResource-ResGen.read.1.tlog
+G:\VIGNESH\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\FTClientCode\obj\Debug\GenerateResource-ResGen.write.1.tlog
+G:\VIGNESH\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\FTClientCode\obj\Debug\FTClientCode1.Form1.resources
+G:\VIGNESH\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\PATIENT\obj\Debug\ResolveAssemblyReference.cache
+G:\VIGNESH\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\PATIENT\obj\Debug\FTClientCode1.Form1.resources
+G:\VIGNESH\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\PATIENT\obj\Debug\FTClientCode.patient_login.resources
+G:\VIGNESH\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\PATIENT\obj\Debug\FTClientCode.PATIENTENTRY.resources
+G:\VIGNESH\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\PATIENT\obj\Debug\FTClientCode.Properties.Resources.resources
+G:\VIGNESH\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\PATIENT\obj\Debug\GenerateResource.read.1.tlog
+G:\VIGNESH\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\PATIENT\obj\Debug\GenerateResource.write.1.tlog
+G:\VIGNESH\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\PATIENT\bin\Debug\FTClientCode.exe.config
+G:\VIGNESH\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\PATIENT\bin\Debug\FTClientCode.exe
+G:\VIGNESH\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\PATIENT\bin\Debug\FTClientCode.pdb
+G:\VIGNESH\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\PATIENT\obj\Debug\FTClientCode.exe
+G:\VIGNESH\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\PATIENT\obj\Debug\FTClientCode.pdb
+G:\VIGNESH\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\PATIENT\obj\Debug\FTClientCode.sendingprocess.resources
+F:\VIGNESH\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\PATIENT\bin\Debug\FTClientCode.exe.config
+F:\VIGNESH\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\PATIENT\obj\Debug\FTClientCode.exe
+F:\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\PATIENT\bin\Debug\FTClientCode.exe.config
+F:\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\PATIENT\obj\Debug\FTClientCode.exe
+F:\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\PATIENT\obj\Debug\ResolveAssemblyReference.cache
+F:\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\PATIENT\obj\Debug\FTClientCode.optionfrm.resources
+F:\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\PATIENT\obj\Debug\FTClientCode1.Form1.resources
+F:\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\PATIENT\obj\Debug\FTClientCode.patient_login.resources
+F:\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\PATIENT\obj\Debug\FTClientCode.PATIENTENTRY.resources
+F:\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\PATIENT\obj\Debug\FTClientCode.Properties.Resources.resources
+F:\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\PATIENT\obj\Debug\FTClientCode.randomkey.resources
+F:\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\PATIENT\obj\Debug\FTClientCode.sendingprocess.resources
+F:\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\PATIENT\obj\Debug\GenerateResource.read.1.tlog
+F:\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\PATIENT\obj\Debug\GenerateResource.write.1.tlog
+F:\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\PATIENT\bin\Debug\FTClientCode.exe
+F:\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\PATIENT\bin\Debug\FTClientCode.pdb
+F:\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\PATIENT\obj\Debug\FTClientCode.pdb
+F:\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\PATIENT\obj\Debug\FTClientCode.patdetails.resources
+F:\MICRO AGGREGATION-24\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\PATIENT\bin\Debug\FTClientCode.exe.config
+F:\MICRO AGGREGATION-24\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\PATIENT\obj\Debug\FTClientCode.exe
+F:\MICRO AGGREGATION-24\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\PATIENT\obj\Debug\FTClientCode.pdb
+C:\vignesh\MICRO AGGREGATION-24\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\PATIENT\bin\Debug\FTClientCode.exe.config
+C:\vignesh\MICRO AGGREGATION-24\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\PATIENT\obj\Debug\FTClientCode.exe
+C:\vignesh\MICRO AGGREGATION-24\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\PATIENT\obj\Debug\FTClientCode.pdb
+C:\vignesh\MICRO AGGREGATION-24\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\PATIENT\bin\Debug\FTClientCode.exe
+C:\vignesh\MICRO AGGREGATION-24\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\PATIENT\bin\Debug\FTClientCode.pdb
+C:\vignesh\MICRO AGGREGATION-24\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\PATIENT\obj\Debug\ResolveAssemblyReference.cache
+C:\vignesh\MICRO AGGREGATION-24\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\PATIENT\obj\Debug\FTClientCode.optionfrm.resources
+C:\vignesh\MICRO AGGREGATION-24\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\PATIENT\obj\Debug\FTClientCode.patdetails.resources
+C:\vignesh\MICRO AGGREGATION-24\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\PATIENT\obj\Debug\FTClientCode1.Form1.resources
+C:\vignesh\MICRO AGGREGATION-24\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\PATIENT\obj\Debug\FTClientCode.patient_login.resources
+C:\vignesh\MICRO AGGREGATION-24\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\PATIENT\obj\Debug\FTClientCode.PATIENTENTRY.resources
+C:\vignesh\MICRO AGGREGATION-24\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\PATIENT\obj\Debug\FTClientCode.Properties.Resources.resources
+C:\vignesh\MICRO AGGREGATION-24\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\PATIENT\obj\Debug\FTClientCode.randomkey.resources
+C:\vignesh\MICRO AGGREGATION-24\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\PATIENT\obj\Debug\FTClientCode.sendingprocess.resources
+C:\vignesh\MICRO AGGREGATION-24\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\PATIENT\obj\Debug\GenerateResource.read.1.tlog
+C:\vignesh\MICRO AGGREGATION-24\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\PATIENT\obj\Debug\GenerateResource.write.1.tlog
+F:\MICRO AGGREGATION-24\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\PATIENT\bin\Debug\FTClientCode.exe
+F:\MICRO AGGREGATION-24\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\PATIENT\bin\Debug\FTClientCode.pdb
+F:\MICRO AGGREGATION-24\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\PATIENT\obj\Debug\ResolveAssemblyReference.cache
+F:\MICRO AGGREGATION-24\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\PATIENT\obj\Debug\FTClientCode.optionfrm.resources
+F:\MICRO AGGREGATION-24\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\PATIENT\obj\Debug\FTClientCode.patdetails.resources
+F:\MICRO AGGREGATION-24\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\PATIENT\obj\Debug\FTClientCode1.Form1.resources
+F:\MICRO AGGREGATION-24\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\PATIENT\obj\Debug\FTClientCode.patient_login.resources
+F:\MICRO AGGREGATION-24\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\PATIENT\obj\Debug\FTClientCode.PATIENTENTRY.resources
+F:\MICRO AGGREGATION-24\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\PATIENT\obj\Debug\FTClientCode.Properties.Resources.resources
+F:\MICRO AGGREGATION-24\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\PATIENT\obj\Debug\FTClientCode.randomkey.resources
+F:\MICRO AGGREGATION-24\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\PATIENT\obj\Debug\FTClientCode.sendingprocess.resources
+F:\MICRO AGGREGATION-24\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\PATIENT\obj\Debug\GenerateResource.read.1.tlog
+F:\MICRO AGGREGATION-24\MICRO AGGREGATION\MICRO AGGREGATION\file transfer\file transfer\FileTransfer\FileTransfer\PATIENT\obj\Debug\GenerateResource.write.1.tlog
+F:\MICRO AGGREGATION-CV\MICRO AGGREGATION\PATIENT\bin\Debug\FTClientCode.exe.config
+F:\MICRO AGGREGATION-CV\MICRO AGGREGATION\PATIENT\obj\Debug\FTClientCode.exe
+F:\MICRO AGGREGATION-CV\MICRO AGGREGATION\PATIENT\obj\Debug\FTClientCode.pdb
+F:\MICRO AGGREGATION-CV\MICRO AGGREGATION\PATIENT\bin\Debug\FTClientCode.exe
+F:\MICRO AGGREGATION-CV\MICRO AGGREGATION\PATIENT\bin\Debug\FTClientCode.pdb
+F:\MICRO AGGREGATION-CV\MICRO AGGREGATION\PATIENT\obj\Debug\ResolveAssemblyReference.cache
+F:\MICRO AGGREGATION-CV\MICRO AGGREGATION\PATIENT\obj\Debug\FTClientCode.optionfrm.resources
+F:\MICRO AGGREGATION-CV\MICRO AGGREGATION\PATIENT\obj\Debug\FTClientCode.patdetails.resources
+F:\MICRO AGGREGATION-CV\MICRO AGGREGATION\PATIENT\obj\Debug\FTClientCode1.Form1.resources
+F:\MICRO AGGREGATION-CV\MICRO AGGREGATION\PATIENT\obj\Debug\FTClientCode.patient_login.resources
+F:\MICRO AGGREGATION-CV\MICRO AGGREGATION\PATIENT\obj\Debug\FTClientCode.PATIENTENTRY.resources
+F:\MICRO AGGREGATION-CV\MICRO AGGREGATION\PATIENT\obj\Debug\FTClientCode.Properties.Resources.resources
+F:\MICRO AGGREGATION-CV\MICRO AGGREGATION\PATIENT\obj\Debug\FTClientCode.randomkey.resources
+F:\MICRO AGGREGATION-CV\MICRO AGGREGATION\PATIENT\obj\Debug\FTClientCode.sendingprocess.resources
+F:\MICRO AGGREGATION-CV\MICRO AGGREGATION\PATIENT\obj\Debug\GenerateResource.read.1.tlog
+F:\MICRO AGGREGATION-CV\MICRO AGGREGATION\PATIENT\obj\Debug\GenerateResource.write.1.tlog
+E:\OFFICE DETAILS\VIGNESH DETAILS\VIGNESH\http & others\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\PATIENT\bin\Debug\FTClientCode.exe.config
+E:\OFFICE DETAILS\VIGNESH DETAILS\VIGNESH\http & others\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\PATIENT\obj\Debug\FTClientCode.exe
+E:\OFFICE DETAILS\VIGNESH DETAILS\VIGNESH\http & others\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\PATIENT\obj\Debug\FTClientCode.pdb
+E:\OFFICE DETAILS\VIGNESH DETAILS\VIGNESH\http & others\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\PATIENT\bin\Debug\FTClientCode.exe
+E:\OFFICE DETAILS\VIGNESH DETAILS\VIGNESH\http & others\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\PATIENT\bin\Debug\FTClientCode.pdb
+E:\OFFICE DETAILS\VIGNESH DETAILS\VIGNESH\http & others\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\PATIENT\obj\Debug\ResolveAssemblyReference.cache
+E:\OFFICE DETAILS\VIGNESH DETAILS\VIGNESH\http & others\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\PATIENT\obj\Debug\FTClientCode.optionfrm.resources
+E:\OFFICE DETAILS\VIGNESH DETAILS\VIGNESH\http & others\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\PATIENT\obj\Debug\FTClientCode.patdetails.resources
+E:\OFFICE DETAILS\VIGNESH DETAILS\VIGNESH\http & others\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\PATIENT\obj\Debug\FTClientCode1.Form1.resources
+E:\OFFICE DETAILS\VIGNESH DETAILS\VIGNESH\http & others\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\PATIENT\obj\Debug\FTClientCode.patient_login.resources
+E:\OFFICE DETAILS\VIGNESH DETAILS\VIGNESH\http & others\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\PATIENT\obj\Debug\FTClientCode.PATIENTENTRY.resources
+E:\OFFICE DETAILS\VIGNESH DETAILS\VIGNESH\http & others\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\PATIENT\obj\Debug\FTClientCode.Properties.Resources.resources
+E:\OFFICE DETAILS\VIGNESH DETAILS\VIGNESH\http & others\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\PATIENT\obj\Debug\FTClientCode.randomkey.resources
+E:\OFFICE DETAILS\VIGNESH DETAILS\VIGNESH\http & others\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\PATIENT\obj\Debug\FTClientCode.sendingprocess.resources
+E:\OFFICE DETAILS\VIGNESH DETAILS\VIGNESH\http & others\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\PATIENT\obj\Debug\GenerateResource.read.1.tlog
+E:\OFFICE DETAILS\VIGNESH DETAILS\VIGNESH\http & others\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\PATIENT\obj\Debug\GenerateResource.write.1.tlog
+I:\OFFICE DETAILS\VIGNESH DETAILS\VIGNESH\http & others\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\PATIENT\bin\Debug\FTClientCode.exe.config
+I:\OFFICE DETAILS\VIGNESH DETAILS\VIGNESH\http & others\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\PATIENT\obj\Debug\FTClientCode.exe
+I:\OFFICE DETAILS\VIGNESH DETAILS\VIGNESH\http & others\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\PATIENT\obj\Debug\FTClientCode.pdb
+E:\COLLEGES\2016\COLLEGE\SONA COLLEGE\project\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\client & Trust\bin\Debug\FTClientCode.exe.config
+E:\COLLEGES\2016\COLLEGE\SONA COLLEGE\project\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\client & Trust\obj\Debug\FTClientCode.exe
+E:\COLLEGES\2016\COLLEGE\SONA COLLEGE\project\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\client & Trust\obj\Debug\FTClientCode.pdb
+E:\COLLEGES\2016\COLLEGE\SONA COLLEGE\project\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\client & Trust\bin\Debug\FTClientCode.exe
+E:\COLLEGES\2016\COLLEGE\SONA COLLEGE\project\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\client & Trust\bin\Debug\FTClientCode.pdb
+E:\COLLEGES\2016\COLLEGE\SONA COLLEGE\project\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\client & Trust\obj\Debug\ResolveAssemblyReference.cache
+E:\COLLEGES\2016\COLLEGE\SONA COLLEGE\project\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\client & Trust\obj\Debug\FTClientCode.optionfrm.resources
+E:\COLLEGES\2016\COLLEGE\SONA COLLEGE\project\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\client & Trust\obj\Debug\FTClientCode.patdetails.resources
+E:\COLLEGES\2016\COLLEGE\SONA COLLEGE\project\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\client & Trust\obj\Debug\FTClientCode1.Form1.resources
+E:\COLLEGES\2016\COLLEGE\SONA COLLEGE\project\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\client & Trust\obj\Debug\FTClientCode.patient_login.resources
+E:\COLLEGES\2016\COLLEGE\SONA COLLEGE\project\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\client & Trust\obj\Debug\FTClientCode.PATIENTENTRY.resources
+E:\COLLEGES\2016\COLLEGE\SONA COLLEGE\project\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\client & Trust\obj\Debug\FTClientCode.Properties.Resources.resources
+E:\COLLEGES\2016\COLLEGE\SONA COLLEGE\project\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\client & Trust\obj\Debug\FTClientCode.randomkey.resources
+E:\COLLEGES\2016\COLLEGE\SONA COLLEGE\project\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\client & Trust\obj\Debug\FTClientCode.sendingprocess.resources
+E:\COLLEGES\2016\COLLEGE\SONA COLLEGE\project\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\client & Trust\obj\Debug\GenerateResource.read.1.tlog
+E:\COLLEGES\2016\COLLEGE\SONA COLLEGE\project\MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\client & Trust\obj\Debug\GenerateResource.write.1.tlog
+F:\Cloud Server-MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\client & Trust\bin\Debug\FTClientCode.exe.config
+F:\Cloud Server-MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\client & Trust\obj\Debug\FTClientCode.exe
+F:\Cloud Server-MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\client & Trust\obj\Debug\FTClientCode.pdb
+F:\Cloud Server-MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\client & Trust\bin\Debug\FTClientCode.exe
+F:\Cloud Server-MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\client & Trust\bin\Debug\FTClientCode.pdb
+F:\Cloud Server-MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\client & Trust\obj\Debug\FTClientCode.csprojResolveAssemblyReference.cache
+F:\Cloud Server-MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\client & Trust\obj\Debug\FTClientCode.optionfrm.resources
+F:\Cloud Server-MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\client & Trust\obj\Debug\FTClientCode.patdetails.resources
+F:\Cloud Server-MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\client & Trust\obj\Debug\FTClientCode1.Form1.resources
+F:\Cloud Server-MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\client & Trust\obj\Debug\FTClientCode.patient_login.resources
+F:\Cloud Server-MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\client & Trust\obj\Debug\FTClientCode.PATIENTENTRY.resources
+F:\Cloud Server-MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\client & Trust\obj\Debug\FTClientCode.Properties.Resources.resources
+F:\Cloud Server-MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\client & Trust\obj\Debug\FTClientCode.randomkey.resources
+F:\Cloud Server-MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\client & Trust\obj\Debug\FTClientCode.sendingprocess.resources
+F:\Cloud Server-MICRO AGGREGATION-CV\MICRO AGGREGATION-CV\MICRO AGGREGATION\client & Trust\obj\Debug\FTClientCode.csproj.GenerateResource.Cache
+E:\sona college\client & Trust\bin\Debug\FTClientCode.exe.config
+E:\sona college\client & Trust\obj\Debug\FTClientCode.exe
+E:\sona college\client & Trust\obj\Debug\FTClientCode.pdb
+E:\sona college\client & Trust\bin\Debug\FTClientCode.exe
+E:\sona college\client & Trust\bin\Debug\FTClientCode.pdb
+E:\sona college\client & Trust\obj\Debug\FTClientCode.csprojResolveAssemblyReference.cache
+E:\sona college\client & Trust\obj\Debug\FTClientCode.optionfrm.resources
+E:\sona college\client & Trust\obj\Debug\FTClientCode.patdetails.resources
+E:\sona college\client & Trust\obj\Debug\FTClientCode1.Form1.resources
+E:\sona college\client & Trust\obj\Debug\FTClientCode.patient_login.resources
+E:\sona college\client & Trust\obj\Debug\FTClientCode.PATIENTENTRY.resources
+E:\sona college\client & Trust\obj\Debug\FTClientCode.Properties.Resources.resources
+E:\sona college\client & Trust\obj\Debug\FTClientCode.randomkey.resources
+E:\sona college\client & Trust\obj\Debug\FTClientCode.sendingprocess.resources
+E:\sona college\client & Trust\obj\Debug\FTClientCode.csproj.GenerateResource.Cache

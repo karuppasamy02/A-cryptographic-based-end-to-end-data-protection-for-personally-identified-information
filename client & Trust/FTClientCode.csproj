@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A993493B-F6C8-430C-BA3A-389F3E8CBA8F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>FTClientCode</RootNamespace>
+    <AssemblyName>FTClientCode</AssemblyName>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Ionic.Zip.Reduced, Version=1.9.1.8, Culture=neutral, PublicKeyToken=edbe51ad942a3f5c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Ionic.Zip.Reduced.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="optionfrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="optionfrm.Designer.cs">
+      <DependentUpon>optionfrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="patdetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="patdetails.Designer.cs">
+      <DependentUpon>patdetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PATIENT DES.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PATIENT DES.Designer.cs">
+      <DependentUpon>PATIENT DES.cs</DependentUpon>
+    </Compile>
+    <Compile Include="patient login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="patient login.Designer.cs">
+      <DependentUpon>patient login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PATIENTENTRY.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PATIENTENTRY.Designer.cs">
+      <DependentUpon>PATIENTENTRY.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="randomkey.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="randomkey.Designer.cs">
+      <DependentUpon>randomkey.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RC4.cs" />
+    <Compile Include="RC4Engine.cs" />
+    <Compile Include="sendingprocess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sendingprocess.Designer.cs">
+      <DependentUpon>sendingprocess.cs</DependentUpon>
+    </Compile>
+    <Compile Include="shortint.cs" />
+    <EmbeddedResource Include="optionfrm.resx">
+      <DependentUpon>optionfrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="patdetails.resx">
+      <DependentUpon>patdetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PATIENT DES.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>PATIENT DES.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="patient login.resx">
+      <DependentUpon>patient login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PATIENTENTRY.resx">
+      <DependentUpon>PATIENTENTRY.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="randomkey.resx">
+      <DependentUpon>randomkey.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sendingprocess.resx">
+      <DependentUpon>sendingprocess.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="NewFolder1\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="doctor.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
